@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1706021330846,
+      "tag": "0000_small_pestilence",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1706021846609,
+      "tag": "0001_careful_true_believers",
+      "breakpoints": true
+    }
+  ]
+}
