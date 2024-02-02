@@ -5,7 +5,7 @@
 * Express
 * Drizzle
 * Typescript
-* PostgreSQL
+* Mysql
 * SOLID Principles
 * Testing With Jest + Supertest
 
